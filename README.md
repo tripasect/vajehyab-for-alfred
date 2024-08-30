@@ -1,3 +1,6 @@
+- Press ⌘Y for Quick Looking the web page of the entry
+- Press Enter to copy the definition
+
 The python interpreter and all the dependencies are packaged along with the workflow so it's kind of a super large file (10MB) for a workflow like this. But it's hassle-free.
 
 
